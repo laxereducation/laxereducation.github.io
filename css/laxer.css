@@ -1,0 +1,227 @@
+        .laxerheader
+        {
+            width:100%;
+            margin-top:56px;
+        }
+        html
+        {
+            background-color: #3c4148;
+            text-decoration: none;
+        }
+        body
+        {
+            background-color: #3c4148;
+            text-decoration: none;
+        }
+        p 
+        {
+            color:whitesmoke;
+            font-size: larger;
+        }
+        h3{
+            color:white;
+        }
+        a
+        {
+            text-decoration: none;
+        }
+        #navbar
+        {
+            background-color: #19202a;
+        }
+        pre
+        {
+            color:#87868b;
+            padding-top: 20px;
+            padding-left: auto;
+            padding-right: auto;
+            text-align: center;
+            font-size: xx-large;
+        }
+        ul{
+            padding-left: -30px;
+            margin-left:-20x;
+            font-size: x-large;
+            color:white;
+        }
+        hr{
+            color: whitesmoke;
+            background-color: whitesmoke;
+        }
+        .footer {
+            background-color: #19202a ;
+            margin: 0px auto;
+            padding: 20px 0px 20px 0px;
+            color:whitesmoke
+            
+        }
+        .address {
+            font-size: 80%;
+            margin: 0px auto;
+            color: #0f0f0f;
+            margin-left: auto;
+            margin-right:auto;
+        }        
+        .pan{
+            width: 100%;
+        }
+        .quotes
+        {
+            margin-bottom: 269px;
+            color:#bebdc2;
+            font-size: xx-large;
+        }
+        .author
+        {
+            font-size: x-large;
+        }
+
+        .carousel-item
+        {
+            height: 600px;
+        }
+
+        .carousel-item img 
+        {
+            position: absolute;
+            top: 0;
+            left: 0;
+            min-height: 600px;
+        }
+        .whatsapp{
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .navbar-dark 
+        {
+            background-color:#19202a;
+        }
+        .logo
+        {
+            width: 100px;
+            height: 50px;
+            padding-bottom: 12px;
+        }
+        .buttons{
+            background-color:#19202a;
+            height: 50px;
+            width: 225px;
+            color: whitesmoke;
+            border: whitesmoke;
+            padding-top: auto;
+            padding-bottom: auto;
+            padding-left: auto;
+            padding-right: auto;
+            margin-top: 20px;
+            margin-bottom: auto;
+            margin-left: auto;
+            margin-right: auto;
+            font-size: larger;
+            font-weight: 500;
+        }
+        .buttons:hover {
+            color:#19202a;
+            background-color: whitesmoke;
+            border: black;
+            border-width: 2em;
+            height: 60px;
+            width: 235px;
+        }
+        @media only screen and (max-width: 570px) 
+        {
+            [class*="col-"] 
+            {
+                width: 100%;
+            }
+            .col-mobile-1 {width: 8.33%;}
+            .col-mobile-2 {width: 16.66%;}
+            .col-mobile-3 {width: 25%;}
+            .col-mobile-4 {width: 33.33%;}
+            .col-mobile-5 {width: 41.66%;}
+            .col-mobile-6 {width: 50%;}
+            .col-mobile-7 {width: 58.33%;}
+            .col-mobile-8 {width: 66.66%;}
+            .col-mobile-9 {width: 75%;}
+            .col-mobile-10 {width: 83.33%;}
+            .col-mobile-11 {width: 91.66%;}
+            .col-mobile-12 {width: 100%;}
+            .laxerheader
+            {
+            width:100%;
+            margin-top:65px;
+            height: 175px;
+            
+            }
+            .navbar-dark 
+            {
+            background-color:#19202a;
+            }
+            .logo
+            {
+            width: 100px;
+            height: 50px;
+            padding-bottom: 12px;
+            margin-left: auto;
+            margin-right: auto;
+            }
+            pre
+            {
+            color:#87868b;
+            padding-top: 20px;
+            padding-left: auto;
+            padding-right: auto;
+            text-align: center;
+            font-size: 17px;
+            }
+            .carousel-item
+            {
+            height: 250px;
+            }
+            .pan
+            {
+                width: 100%;
+                margin-top: 20px;
+            }
+            .carousel-item img 
+            {
+            position: absolute;
+            top: 0;
+            left: 0;
+            min-height: 250px;
+            }
+            .quotes
+            {
+            margin-bottom: 0px;
+            color:#d3d2d6;
+            font-size: x-large;
+            }
+            .author
+            {
+            font-size: large;
+            }
+            .footer {
+                background-color: #19202a ;
+                margin: 0px auto;
+                padding: 20px 20px 0px 0px;
+                color:whitesmoke
+                
+                
+            }
+            .address {
+                font-size: 80%;
+                margin: 0px auto;
+                color: #0f0f0f;
+                margin-left: auto;
+                margin-right:auto;
+                align-content: center;
+            }        
+            #copyright{
+                padding-left: 40px;
+            }
+            #social
+            {
+                padding-left: 40px;
+            }
+
+        }
