@@ -195,8 +195,11 @@
             }
             .quotes
             {
-            margin-bottom: 0px;
+            
+            
+            padding-top: 50px;
             color:#d3d2d6;
+
             font-size: x-large;
             }
             .author
@@ -220,11 +223,11 @@
                 align-content: center;
             }        
             #copyright{
-                padding-left: 40px;
+                padding-left: 59px;
             }
             #social
             {
-                padding-left: 40px;
+                padding-left: 39px;
             }
 
         }
