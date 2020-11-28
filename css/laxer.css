@@ -16,10 +16,11 @@
         p 
         {
             color:whitesmoke;
-            font-size: larger;
+            font-size: large;
         }
         h3{
             color:white;
+            font-size: larger;
         }
         a
         {
@@ -120,7 +121,7 @@
             margin-bottom: auto;
             margin-left: auto;
             margin-right: auto;
-            font-size: larger;
+            font-size: large;
             font-weight: 500;
         }
         .buttons:hover {
@@ -130,6 +131,10 @@
             border-width: 2em;
             height: 60px;
             width: 235px;
+        }
+        #copyright{
+            margin: auto;
+            font-size:xx-small;
         }
         @media only screen and (max-width: 570px) 
         {
@@ -155,6 +160,9 @@
             margin-top:65px;
             height: 175px;
             
+            }
+            #laxer_heading{
+                font-size:27px ;
             }
             .navbar-dark 
             {
@@ -222,12 +230,34 @@
                 margin-right:auto;
                 align-content: center;
             }        
-            #copyright{
-                padding-left: 59px;
-            }
             #social
             {
                 padding-left: 39px;
+            }
+            li{
+                font-size: smaller;
+            }
+            .buttons{
+                background-color:#19202a;
+                height: 47px;
+                width: 210px;
+                color: whitesmoke;
+                border: whitesmoke;
+                padding-top: auto;
+                padding-bottom: auto;
+                padding-left: auto;
+                padding-right: auto;
+                margin-top: 20px;
+                margin-bottom: auto;
+                margin-left: auto;
+                margin-right: auto;
+                font-size: large;
+                font-weight: 500;
+            }
+            #copyright{
+                margin: auto;
+                font-size:x-small;
+                padding-left: 63px;
             }
 
         }
