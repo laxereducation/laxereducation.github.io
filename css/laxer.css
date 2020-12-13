@@ -38,6 +38,11 @@
             background-color: #19202a;
             font-size: xx-small;
         }
+        .nav-link
+        {
+            font-size: smaller;
+        }
+
         .themes-nav{
             margin-left: auto;
         }
