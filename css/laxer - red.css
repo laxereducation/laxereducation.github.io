@@ -5,24 +5,25 @@
         }
         html
         {
-            background-color: #3c4148;
+            background-color: #110101;
             text-decoration: none;
         }
         body
         {
-            background-color: #3c4148;
+            background-color: #220202;
             text-decoration: none;
         }
         .themes
         {
-            background-color: #19202a;
+            background-color: #110101;
             color: white;
             float: right;
 
         }
+       
         p 
         {
-            color:whitesmoke;
+            color:rgb(175, 169, 169);
             font-size: larger;
         }
         h3{
@@ -35,7 +36,7 @@
         }
         #navbar
         {
-            background-color: #19202a;
+            background-color: #110101;
         }
         .themes-nav{
             margin-left: auto;
@@ -53,14 +54,14 @@
             padding-left: -30px;
             margin-left:-20x;
             font-size: x-large;
-            color:white;
+            color:rgb(175, 169, 169);
         }
         hr{
             color: whitesmoke;
             background-color: whitesmoke;
         }
         .footer {
-            background-color: #19202a ;
+            background-color: #110101;
             margin: 0px auto;
             padding: 20px 0px 20px 0px;
             color:whitesmoke
@@ -105,13 +106,18 @@
         }
         .links{
             font-size: large;
+
+        }
+        #demat{
+            background-color: rgb(53, 10, 6);
+        }
+        #geetings{
+            font-size: xx-small;
         }
 
         .navbar-dark 
         {
-            background-color:#19202a;
-            font-size: x-small
-            ;
+            background-color: #110101;
         }
         .logo
         {
@@ -120,7 +126,7 @@
             padding-bottom: 12px;
         }
         .buttons{
-            background-color:#19202a;
+            background-color: #110101;
             height: 50px;
             width: 225px;
             color: whitesmoke;
@@ -135,6 +141,9 @@
             margin-right: auto;
             font-size: large;
             font-weight: 500;
+        }
+        .footer-links{
+            color: tomato ; 
         }
         .buttons:hover {
             color:#19202a;
@@ -251,12 +260,12 @@
             }
             p 
             {
-                color:whitesmoke;
+                color:rgb(175, 169, 169);
                 font-size: large;
             }
             .navbar-dark 
             {
-            background-color:#19202a;
+                background-color: #110101;
             }
             .logo
             {
@@ -273,7 +282,7 @@
             padding-left: auto;
             padding-right: auto;
             text-align: center;
-            font-size: 17px;
+            font-size: 14px;
             }
             .carousel-item
             {
@@ -305,7 +314,7 @@
             font-size: large;
             }
             .footer {
-                background-color: #19202a ;
+                background-color: #110101;
                 margin: 0px auto;
                 padding: 20px 20px 0px 0px;
                 color:whitesmoke
@@ -328,7 +337,7 @@
                 font-size: smaller;
             }
             .buttons{
-                background-color:#19202a;
+                background-color: #110101;
                 height: 47px;
                 width: 210px;
                 color: whitesmoke;
