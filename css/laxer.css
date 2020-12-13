@@ -36,6 +36,7 @@
         #navbar
         {
             background-color: #19202a;
+            font-size: xx-small;
         }
         .themes-nav{
             margin-left: auto;
@@ -110,8 +111,7 @@
         .navbar-dark 
         {
             background-color:#19202a;
-            font-size: x-small
-            ;
+            
         }
         .logo
         {
